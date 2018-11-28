@@ -1,0 +1,333 @@
+id_x,songName,artistName,id_y
+sgd_000174,No More No More,Aerosmith,mil_1874
+sgd_000195,Round And Round,Aerosmith,mil_0935
+sgd_000196,Same Old Song And Dance,Aerosmith,mil_0501
+sgd_000214,Sweet Emotion,Aerosmith,mil_3732
+sgd_000268,Even The Nights Are Better,Air Supply,mil_0628
+sgd_001345,I Want To Spend The Night,Bill Withers,mil_3058
+sgd_001488,After Forever,Black Sabbath,mil_3086
+sgd_001493,Children Of The Grave,Black Sabbath,mil_4469
+sgd_001501,Hand Of Doom,Black Sabbath,mil_3253
+sgd_001851,Have A Heart,Bonnie Raitt,mil_4789
+sgd_002011,Born To Run,Bruce Springsteen,mil_0640
+sgd_002013,Cadillac Ranch,Bruce Springsteen,mil_1484
+sgd_002015,Cautious Man,Bruce Springsteen,mil_4150
+sgd_002029,Factory,Bruce Springsteen,mil_4528
+sgd_002048,Into The Fire,Bruce Springsteen,mil_3850
+sgd_002051,Johnny 99,Bruce Springsteen,mil_4022
+sgd_002535,Dark Lady,Cher,mil_0666
+sgd_002546,Elusive Butterfly,Cher,mil_2107
+sgd_002565,I Saw A Man And He Danced With His Wife,Cher,mil_1846
+sgd_003016,Carol,Chuck Berry,mil_0822
+sgd_003256,Daylight,Coldplay,mil_0294
+sgd_003265,God Put A Smile Upon Your Face,Coldplay,mil_1311
+sgd_003322,Warning Sign,Coldplay,mil_2384
+sgd_003743,Would You Be My Lady,David Allan Coe,mil_0153
+sgd_003991,Lay Down Stay Down,Deep Purple,mil_1983
+sgd_004124,Personal Jesus,Depeche Mode,mil_4695
+sgd_004852,Burn Down The Mission,Elton John,mil_0012
+sgd_004915,Alison,Elvis Costello,mil_3591
+sgd_004994,Living In Paradise,Elvis Costello,mil_3744
+sgd_005224,Can You Hear Me,Enrique Iglesias,mil_0934
+sgd_005384,I Shot The Sheriff,Eric Clapton,mil_1693
+sgd_005525,Paint A Rumour,Eurythmics,mil_1139
+sgd_006267,Everlong,Foo Fighters,mil_4341
+sgd_006320,Times Like These,Foo Fighters,mil_0044
+sgd_006989,Christmas Through Your Eyes,Gloria Estefan,mil_0023
+sgd_007009,Here We Are,Gloria Estefan,mil_4289
+sgd_007350,Yesterdays,Guns N' Roses,mil_1682
+sgd_007539,24 Hour Party People,Happy Mondays,mil_0921
+sgd_007540,Bobs Yer Uncle,Happy Mondays,mil_0251
+sgd_007656,Tell It Like It Is,Heart,mil_1674
+sgd_008236,The Passenger,Iggy Pop,mil_2460
+sgd_008355,The Warmth,Incubus,mil_0160
+sgd_009167,Down On Me,Janis Joplin,mil_2180
+sgd_009178,Little Girl Blue,Janis Joplin,mil_4388
+sgd_009179,Mercedes Benz,Janis Joplin,mil_1135
+sgd_010075,Family Business,Kanye West,mil_0349
+sgd_010089,Roses,Kanye West,mil_0315
+sgd_010475,Lucille,Kenny Rogers,mil_4727
+sgd_010490,She Believes In Me,Kenny Rogers,mil_4351
+sgd_010627,One Down Two To Go,King Diamond,mil_2006
+sgd_010645,Unclean Spirits,King Diamond,mil_4344
+sgd_010820,Detroit Rock City,Kiss,mil_0904
+sgd_011182,Final Hour,Lauryn Hill,mil_2316
+sgd_011183,Forgive Them Father,Lauryn Hill,mil_4440
+sgd_011448,Dance Me To The End Of Love,Leonard Cohen,mil_4343
+sgd_011453,Famous Blue Raincoat,Leonard Cohen,mil_4212
+sgd_011456,First We Take Manhattan,Leonard Cohen,mil_0072
+sgd_011459,Hallelujah,Leonard Cohen,mil_0816
+sgd_011760,Penny Lover,Lionel Richie,mil_0245
+sgd_011772,Tender Heart,Lionel Richie,mil_1570
+sgd_012261,Gimme Three Steps,Lynyrd Skynyrd,mil_0633
+sgd_012656,Pray,Mc Hammer,mil_0678
+sgd_012791,Battery,Metallica,mil_0425
+sgd_012811,Leper Messiah,Metallica,mil_3718
+sgd_012819,Master Of Puppets,Metallica,mil_3391
+sgd_012829,Nothing Else Matters,Metallica,mil_2361
+sgd_012830,Of Wolf And Man,Metallica,mil_2754
+sgd_012846,The God That Failed,Metallica,mil_0371
+sgd_012857,The Thing That Should Not Be,Metallica,mil_2889
+sgd_012862,Through The Never,Metallica,mil_0974
+sgd_013013,Another Part Of Me,Michael Jackson,mil_3807
+sgd_013014,Baby Be Mine,Michael Jackson,mil_3269
+sgd_013019,Ben,Michael Jackson,mil_4365
+sgd_014218,Dumb,Nirvana,mil_3869
+sgd_014231,Polly,Nirvana,mil_0613
+sgd_014242,Serve The Servants,Nirvana,mil_3139
+sgd_014247,Territorial Pissings,Nirvana,mil_3498
+sgd_014250,Where Did You Sleep Last Night,Nirvana,mil_4525
+sgd_015270,Nathaniel,Outkast,mil_3093
+sgd_015282,Slump,Outkast,mil_0227
+sgd_015523,Kimberly,Patti Smith,mil_4456
+sgd_015650,Alive,Pearl Jam,mil_3509
+sgd_015686,Jeremy,Pearl Jam,mil_4507
+sgd_015710,Release,Pearl Jam,mil_0274
+sgd_016760,15 Step,Radiohead,mil_2103
+sgd_016766,Airbag,Radiohead,mil_0473
+sgd_016774,Black Star,Radiohead,mil_3936
+sgd_016779,Climbing Up The Walls,Radiohead,mil_1063
+sgd_016801,House Of Cards,Radiohead,mil_3054
+sgd_016805,I Might Be Wrong,Radiohead,mil_2015
+sgd_016807,Jigsaw Falling Into Place,Radiohead,mil_0806
+sgd_016808,Kid A,Radiohead,mil_1930
+sgd_016816,Morning Bell,Radiohead,mil_4387
+sgd_016826,Packt Like Sardines In A Crushed Tin Box,Radiohead,mil_3344
+sgd_016867,All Night Long,Rainbow,mil_1936
+sgd_016868,Eyes Of The World,Rainbow,mil_4780
+sgd_017564,Keep Coming Back,Richard Marx,mil_4347
+sgd_017588,Take This Heart,Richard Marx,mil_3812
+sgd_017601,Touch Of Heaven,Richard Marx,mil_1221
+sgd_017602,Until I Find You Again,Richard Marx,mil_0895
+sgd_017621,Whenever You Need Somebody,Rick Astley,mil_0699
+sgd_017756,Northern Town,Robbie Williams,mil_1596
+sgd_018654,Goodbye Girl,Squeeze,mil_4191
+sgd_018789,Cousin Dupree,Steely Dan,mil_2799
+sgd_018796,Josie,Steely Dan,mil_3367
+sgd_018809,Through With Buzz,Steely Dan,mil_1075
+sgd_018836,Never Kill Another Man,Steve Miller Band,mil_3708
+sgd_018862,Crossfire,Stevie Ray Vaughan,mil_2150
+sgd_019214,What Love Has Joined Together,The Temptations,mil_0052
+sgd_019267,Still In Love With You,Thin Lizzy,mil_4730
+sgd_019445,Deal,Tom T. Hall,mil_3574
+sgd_019458,I Care,Tom T. Hall,mil_2220
+sgd_019826,Deep In The Heart,U2,mil_0356
+sgd_019872,Stories For Boys,U2,mil_1881
+sgd_020986,Funny How Time Slips Away,Wanda Jackson,mil_4014
+sgd_020990,Honey Bop,Wanda Jackson,mil_0624
+sgd_020996,Kansas City,Wanda Jackson,mil_0773
+sgd_021010,Stupid Cupid,Wanda Jackson,mil_2777
+sgd_021207,Cold Dark World,Weezer,mil_1247
+sgd_021223,Mykel And Carli,Weezer,mil_0834
+sgd_021445,Run To You,Whitney Houston,mil_1244
+sgd_021533,Men In Black,Will Smith,mil_3155
+sgd_021748,Los Angeles,X,mil_4702
+sgd_022582,About You,Zoegirl,mil_3299
+sgd_022583,Anything Is Possible,Zoegirl,mil_2736
+sgd_022586,Different Kind Of Free,Zoegirl,mil_2366
+sgd_022590,Forever 17,Zoegirl,mil_3738
+sgd_022593,Good Girl,Zoegirl,mil_1207
+sgd_022596,Let It Out,Zoegirl,mil_2202
+sgd_022606,Plain,Zoegirl,mil_2608
+sgd_022863,Lucky Love,Ace Of Base,mil_3036
+sgd_023064,Last Child,Aerosmith,mil_0299
+sgd_023090,Lost In Love,Air Supply,mil_0140
+sgd_023114,Two Less Lonely People In The World,Air Supply,mil_1667
+sgd_023527,Man In The Box,Alice In Chains,mil_0914
+sgd_025471,Dear Hearts And Gentle People,Bing Crosby,mil_0639
+sgd_025599,Iron Man,Black Sabbath,mil_0958
+sgd_025626,Planet Caravan,Black Sabbath,mil_0261
+sgd_025639,Solitude,Black Sabbath,mil_3633
+sgd_025643,Sweet Leaf,Black Sabbath,mil_0172
+sgd_025878,Isis,Bob Dylan,mil_4740
+sgd_026305,Real Man,Bonnie Raitt,mil_3888
+sgd_026529,Atlantic City,Bruce Springsteen,mil_4132
+sgd_026542,Blood Brothers,Bruce Springsteen,mil_3437
+sgd_026545,Brilliant Disguise,Bruce Springsteen,mil_3211
+sgd_026584,Hungry Heart,Bruce Springsteen,mil_4366
+sgd_026598,Jackson Cage,Bruce Springsteen,mil_0866
+sgd_026624,Mansion On The Hill,Bruce Springsteen,mil_3191
+sgd_027012,Wild World,Cat Stevens,mil_2622
+sgd_027284,Come And Stay With Me,Cher,mil_3518
+sgd_027351,Living In A House Divided,Cher,mil_1215
+sgd_027366,Melody,Cher,mil_3062
+sgd_027918,Beautiful Delilah,Chuck Berry,mil_0528
+sgd_028156,A Whisper,Coldplay,mil_4374
+sgd_028160,Amsterdam,Coldplay,mil_2676
+sgd_028171,Clocks,Coldplay,mil_3251
+sgd_028185,In My Place,Coldplay,mil_1325
+sgd_028344,Fortunate Son,Creedence Clearwater Revival,mil_0540
+sgd_028352,It Came Out Of The Sky,Creedence Clearwater Revival,mil_4065
+sgd_028800,A Sad Country Song,David Allan Coe,mil_3431
+sgd_028814,Divers Do It Deeper,David Allan Coe,mil_0421
+sgd_028815,Face To Face,David Allan Coe,mil_0967
+sgd_029250,No One Came,Deep Purple,mil_2463
+sgd_029260,Sail Away,Deep Purple,mil_0094
+sgd_029521,Halo,Depeche Mode,mil_4622
+sgd_029583,Waiting For The Night,Depeche Mode,mil_2967
+sgd_029721,But Beautiful,Diana Ross,mil_3893
+sgd_029764,Had You Been Around,Diana Ross,mil_3897
+sgd_029866,Walk Of Life,Dire Straits,mil_0278
+sgd_030676,Just One Smile,Dusty Springfield,mil_3346
+sgd_030858,Confusion,Electric Light Orchestra,mil_2635
+sgd_030867,Evil Woman,Electric Light Orchestra,mil_2691
+sgd_030870,Four Little Diamonds,Electric Light Orchestra,mil_2270
+sgd_030920,Strange Magic,Electric Light Orchestra,mil_3519
+sgd_031144,Candle In The Wind,Elton John,mil_1556
+sgd_031178,Harmony,Elton John,mil_2120
+sgd_031228,Blame It On Cain,Elvis Costello,mil_1293
+sgd_031411,Ken Kaniff,Eminem,mil_0685
+sgd_031625,Addicted,Enrique Iglesias,mil_3323
+sgd_031644,Hero,Enrique Iglesias,mil_1451
+sgd_031650,Love To See You Cry,Enrique Iglesias,mil_1389
+sgd_032039,Right By Your Side,Eurythmics,mil_1809
+sgd_032056,The First Cut,Eurythmics,mil_4066
+sgd_032699,Monkey Wrench,Foo Fighters,mil_3998
+sgd_032733,Word Forward,Foo Fighters,mil_2706
+sgd_032901,East Of The Sun,Frank Sinatra,mil_0534
+sgd_033011,Answer Me,Frankie Laine,mil_1148
+sgd_033020,I Believe,Frankie Laine,mil_2711
+sgd_033571,I Live For You,George Harrison,mil_4775
+sgd_033582,Let It Down,George Harrison,mil_4315
+sgd_033764,Father Figure,George Michael,mil_0431
+sgd_033769,Hand To Mouth,George Michael,mil_2305
+sgd_033771,Hard Day,George Michael,mil_1737
+sgd_033784,Look At Your Hands,George Michael,mil_4567
+sgd_033788,Monkey,George Michael,mil_2496
+sgd_033994,Allegria,Gipsy Kings,mil_2459
+sgd_034189,Get On Your Feet,Gloria Estefan,mil_4422
+sgd_034947,Mr. Brownstone,Guns N' Roses,mil_3689
+sgd_034956,Out Ta Get Me,Guns N' Roses,mil_0495
+sgd_034957,Paradise City,Guns N' Roses,mil_1797
+sgd_034966,Rocket Queen,Guns N' Roses,mil_3690
+sgd_034973,Sympathy For The Devil,Guns N' Roses,mil_0045
+sgd_034976,Think About You,Guns N' Roses,mil_0240
+sgd_034983,You Could Be Mine,Guns N' Roses,mil_2244
+sgd_035122,A Mansion On The Hill,Hank Williams,mil_0022
+sgd_035176,Mind Your Own Business,Hank Williams,mil_3318
+sgd_035457,Loose Fit,Happy Mondays,mil_3328
+sgd_035462,Stinkin Thinkin,Happy Mondays,mil_2303
+sgd_035626,Dreamboat Annie,Heart,mil_3024
+sgd_035629,Heartless,Heart,mil_1225
+sgd_035644,Love Alive,Heart,mil_4231
+sgd_035649,Mistral Wind,Heart,mil_0027
+sgd_035663,Straight On,Heart,mil_2530
+sgd_036663,Drive,Incubus,mil_1900
+sgd_036715,Wish You Were Here,Incubus,mil_1413
+sgd_037485,Cry Baby,Janis Joplin,mil_4637
+sgd_037492,Get It While You Can,Janis Joplin,mil_2123
+sgd_037494,Half Moon,Janis Joplin,mil_1606
+sgd_037509,Move Over,Janis Joplin,mil_3376
+sgd_037535,Trust Me,Janis Joplin,mil_3020
+sgd_038763,Faithfully,Journey,mil_3221
+sgd_038840,When You Love A Woman,Journey,mil_1183
+sgd_039253,Addiction,Kanye West,mil_0092
+sgd_039261,Celebration,Kanye West,mil_2812
+sgd_039282,Graduation Day,Kanye West,mil_2507
+sgd_039287,Hey Mama,Kanye West,mil_3773
+sgd_039295,Late,Kanye West,mil_4048
+sgd_039314,School Spirit,Kanye West,mil_4634
+sgd_040318,Cross Of Baron Samedi,King Diamond,mil_1302
+sgd_040376,Voodoo,King Diamond,mil_1621
+sgd_041279,Lost Ones,Lauryn Hill,mil_3493
+sgd_041291,The Miseducation Of Lauryn Hill,Lauryn Hill,mil_4007
+sgd_041393,Again,Lenny Kravitz,mil_0390
+sgd_041398,Are You Gonna Go My Way,Lenny Kravitz,mil_3700
+sgd_041533,Everybody Knows,Leonard Cohen,mil_3516
+sgd_041597,3 Peat,Lil Wayne,mil_0953
+sgd_041828,My Destiny,Lionel Richie,mil_3991
+sgd_041829,My Love,Lionel Richie,mil_2821
+sgd_042637,Butterfly,Mariah Carey,mil_2471
+sgd_042663,Honey,Mariah Carey,mil_1188
+sgd_043527,Enter Sandman,Metallica,mil_1631
+sgd_043726,Burn This Disco Out,Michael Jackson,mil_2276
+sgd_043785,Just A Little Bit Of You,Michael Jackson,mil_0394
+sgd_044662,Hypnosis,Mud,mil_4074
+sgd_044670,Rocket,Mud,mil_1411
+sgd_045038,Expect No Mercy,Nazareth,mil_1344
+sgd_045096,Razamanaz,Nazareth,mil_4683
+sgd_045630,Free Ride,Nick Drake,mil_1068
+sgd_045645,Place To Be,Nick Drake,mil_3964
+sgd_046020,Breed,Nirvana,mil_0658
+sgd_046029,Frances Farmer Will Have Her Revenge On Seattle,Nirvana,mil_4175
+sgd_046045,Lithium,Nirvana,mil_4556
+sgd_046057,Something In The Way,Nirvana,mil_4399
+sgd_046063,The Man Who Sold The World,Nirvana,mil_4306
+sgd_046435,Better Day,Ocean Colour Scene,mil_0832
+sgd_046463,July,Ocean Colour Scene,mil_2374
+sgd_046480,Travellers Tune,Ocean Colour Scene,mil_1835
+sgd_047399,Angel,Patsy Cline,mil_4286
+sgd_047483,Break It Up,Patti Smith,mil_1997
+sgd_047495,Elegie,Patti Smith,mil_2532
+sgd_047500,Free Money,Patti Smith,mil_1455
+sgd_047528,Redondo Beach,Patti Smith,mil_1199
+sgd_047768,Black,Pearl Jam,mil_4006
+sgd_047788,Garden,Pearl Jam,mil_4408
+sgd_047819,Last Exit,Pearl Jam,mil_3792
+sgd_049771,How To Disappear Completely,Radiohead,mil_2745
+sgd_049774,Idioteque,Radiohead,mil_1638
+sgd_049776,In Limbo,Radiohead,mil_0505
+sgd_049779,Just,Radiohead,mil_3326
+sgd_049790,Motion Picture Soundtrack,Radiohead,mil_3386
+sgd_049793,Paranoid Android,Radiohead,mil_0487
+sgd_049798,Pyramid Song,Radiohead,mil_0646
+sgd_049812,Sulk,Radiohead,mil_0402
+sgd_049814,The Bends,Radiohead,mil_1476
+sgd_049855,Bombtrack,Rage Against The Machine,mil_4477
+sgd_049858,Bullet In The Head,Rage Against The Machine,mil_4442
+sgd_049894,Township Rebellion,Rage Against The Machine,mil_0317
+sgd_049898,A Light In The Black,Rainbow,mil_1503
+sgd_049917,L.A. Connection,Rainbow,mil_0747
+sgd_049935,Stranded,Rainbow,mil_0916
+sgd_050801,Satisfied,Richard Marx,mil_4075
+sgd_050829,Full Of You,Rick Astley,mil_3556
+sgd_050830,Hold Me In Your Arms,Rick Astley,mil_4005
+sgd_050840,It Would Take A Strong Strong Man,Rick Astley,mil_2386
+sgd_050844,My Arms Keep Missing You,Rick Astley,mil_1549
+sgd_050850,Sleeping,Rick Astley,mil_3464
+sgd_050855,The Ones You Love,Rick Astley,mil_3214
+sgd_051945,Cool For Cats,Squeeze,mil_2570
+sgd_051952,Footprints,Squeeze,mil_3204
+sgd_051975,Is That Love?,Squeeze,mil_2886
+sgd_051981,King George Street,Squeeze,mil_1867
+sgd_051991,No Place Like Home,Squeeze,mil_0780
+sgd_052136,Aja,Steely Dan,mil_3438
+sgd_052169,My Old School,Steely Dan,mil_2931
+sgd_052183,Things I Miss The Most,Steely Dan,mil_2019
+sgd_052212,Going To Mexico,Steve Miller Band,mil_1436
+sgd_052223,Journey From Eden,Steve Miller Band,mil_0449
+sgd_052229,Kow Kow,Steve Miller Band,mil_3630
+sgd_052261,Tightrope,Stevie Ray Vaughan,mil_1143
+sgd_053017,Angel Of Death,Thin Lizzy,mil_0776
+sgd_053074,Showdown,Thin Lizzy,mil_2761
+sgd_053084,The Rocker,Thin Lizzy,mil_0598
+sgd_053085,Thunder And Lightning,Thin Lizzy,mil_1228
+sgd_053088,Waiting For An Alibi,Thin Lizzy,mil_4165
+sgd_053090,Whiskey In The Jar,Thin Lizzy,mil_2506
+sgd_053091,Wild One,Thin Lizzy,mil_2356
+sgd_053481,Fox On The Run,Tom T. Hall,mil_0836
+sgd_053533,Salute To A Switchblade,Tom T. Hall,mil_0207
+sgd_053538,Shoeshine Man,Tom T. Hall,mil_3768
+sgd_053569,Big In Japan,Tom Waits,mil_1328
+sgd_054108,A Day Without Me,U2,mil_4778
+sgd_054124,Exit,U2,mil_1804
+sgd_054126,Fire,U2,mil_3140
+sgd_054155,Running To Stand Still,U2,mil_1014
+sgd_054534,Gypsy,Uriah Heep,mil_0730
+sgd_054569,One Way Or Another,Uriah Heep,mil_1823
+sgd_054598,Something Or Nothing,Uriah Heep,mil_2862
+sgd_055403,Lonely Weekends,Wanda Jackson,mil_3997
+sgd_055411,Mean Mean Man,Wanda Jackson,mil_0024
+sgd_055421,Rip It Up,Wanda Jackson,mil_2211
+sgd_055843,Holiday,Weezer,mil_3555
+sgd_055851,Jamie,Weezer,mil_3044
+sgd_055859,My Name Is Jonas,Weezer,mil_2418
+sgd_055860,No One Else,Weezer,mil_2379
+sgd_055866,Only In Dreams,Weezer,mil_2343
+sgd_055876,Surf Wax America,Weezer,mil_0728
+sgd_055884,Troublemaker,Weezer,mil_4068
+sgd_056247,All At Once,Whitney Houston,mil_4121
+sgd_056283,Someone For Me,Whitney Houston,mil_1698
+sgd_056286,Thinking About You,Whitney Houston,mil_4280
+sgd_056292,You Give Good Love,Whitney Houston,mil_2808
+sgd_056827,Soul Kitchen,X,mil_0823
